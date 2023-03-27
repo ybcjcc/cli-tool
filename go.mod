@@ -1,4 +1,4 @@
-module cli-tools
+module cli-tool
 
 go 1.13
 
